@@ -1,0 +1,10 @@
+[
+  {
+    "location": { "lat": 12.9168343, "lng": 77.6716284 },
+    "stopover": true
+  },
+  {
+    "location": { "lat": 12.9129903, "lng": 77.6809428 },
+    "stopover": true
+  }
+]
